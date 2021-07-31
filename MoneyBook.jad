@@ -1,15 +1,15 @@
 Manifest-Version: 1.0
 RIM-COD-Module-Name: MoneyBook
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_database
-MIDlet-Jar-Size: 39376
+MIDlet-Jar-Size: 39335
 MIDlet-1: SQLite Demo,res/sqlitedemo_jde.png,
-RIM-COD-Creation-Time: 1627740335
+RIM-COD-Creation-Time: 1627740399
 MIDlet-Jar-URL: SQLiteDemo.jar
 RIM-COD-URL: MoneyBook.cod
-RIM-COD-SHA1: 6a 15 55 bb 34 74 7c 7f 79 be 66 d9 f3 57 94 45 cb 4c 40 7d
-RIM-COD-Size: 21664
+RIM-COD-SHA1: c8 04 77 6c b3 09 bb 6e 3f 65 7f d7 98 c5 19 fb e1 dd bd a0
+RIM-COD-Size: 21620
 MicroEdition-Configuration: CLDC-1.1
-MIDlet-Version: 1.0.11
+MIDlet-Version: 1.0.12
 MIDlet-Name: SQLiteDemo
 MIDlet-Vendor: Research In Motion Ltd.
 MicroEdition-Profile: MIDP-2.0
