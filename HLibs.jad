@@ -6,10 +6,10 @@ MIDlet-1: MoneyBook,res/sqlitedemo_jde.png,
 RIM-COD-Creation-Time: 961042278
 MIDlet-Jar-URL: MoneyBook.jar
 RIM-COD-URL: HLibs.cod
-RIM-COD-SHA1: 44 29 92 65 b8 10 47 aa 00 da 64 f6 1f 24 94 c8 e7 03 5a 0d
+RIM-COD-SHA1: ec 83 dd a6 07 df 2d 1a 31 71 9e 2e b4 88 e2 4b b3 91 47 2f
 RIM-COD-Size: 27000
 MicroEdition-Configuration: CLDC-1.1
-MIDlet-Version: 1.0.45
+MIDlet-Version: 1.0.46
 MIDlet-Name: MoneyBook
 MIDlet-Vendor: vnapps.com
 MicroEdition-Profile: MIDP-2.0
