@@ -1,19 +1,19 @@
 Manifest-Version: 1.0
 RIM-COD-Module-Name: MoneyBook
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,HLibs,net_rim_database
-MIDlet-Jar-Size: 46056
+MIDlet-Jar-Size: 46057
 MIDlet-1: MoneyBook,res/sqlitedemo_jde.png,
-RIM-COD-Creation-Time: 1627793355
+RIM-COD-Creation-Time: 1627794228
 MIDlet-Jar-URL: MoneyBook.jar
 RIM-COD-URL: MoneyBook.cod
-RIM-COD-SHA1: a9 04 f0 ea 36 c6 88 57 68 03 93 0d 56 0c 7c c5 da ac 52 d4
+RIM-COD-SHA1: 8c 2a 64 d9 18 50 39 79 5d 42 75 40 12 f6 9b b2 67 42 05 ea
 RIM-COD-Size: 26528
 MicroEdition-Configuration: CLDC-1.1
-MIDlet-Version: 1.0.90
+MIDlet-Version: 1.0.96
 MIDlet-Name: MoneyBook
 MIDlet-Vendor: vnapps.com
 MicroEdition-Profile: MIDP-2.0
 RIM-MIDlet-Flags-1: 0
 RIM-COD-URL-1: HLibs.cod
-RIM-COD-Size-1: 3316
+RIM-COD-Size-1: 3588
 RIM-Library-Flags: 2
