@@ -1,0 +1,15 @@
+MIDlet-Name: Hlibs
+MIDlet-Version: 0.0
+MIDlet-Vendor: <unknown>
+MIDlet-Jar-URL: Hlibs.jar
+MIDlet-Jar-Size: 6745
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-COD-URL: HLibs.cod
+RIM-COD-Size: 3316
+RIM-COD-Creation-Time: 1627793204
+RIM-COD-Module-Name: HLibs
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser
+RIM-COD-SHA1: d9 2b 15 28 d5 78 82 4d 87 bc ac a4 b6 2a c8 17 65 b6 cb 2f
+RIM-Library-Flags: 2
