@@ -1,8 +1,8 @@
 MIDlet-Name: MoneyBook
-MIDlet-Version: 1.0.232
+MIDlet-Version: 1.0.239
 MIDlet-Vendor: vnapps.com
 MIDlet-Jar-URL: MoneyBook.jar
-MIDlet-Jar-Size: 98954
+MIDlet-Jar-Size: 99503
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-1: MoneyBook,res/moneybook.png,
@@ -10,9 +10,12 @@ RIM-MIDlet-Icon-Count-1: 1
 RIM-MIDlet-Flags-1: 0
 Manifest-Version: 1.0
 RIM-COD-URL: MoneyBook.cod
-RIM-COD-Size: 38316
-RIM-COD-Creation-Time: 1656860512
+RIM-COD-Size: 38644
+RIM-COD-Creation-Time: 1656862495
 RIM-COD-Module-Name: MoneyBook
 RIM-COD-Module-Dependencies: net_rim_cldc,HLibs
-RIM-COD-SHA1: 07 aa 13 d7 8e ef bc ab 13 08 20 31 fc f8 39 f2 ca 07 4e 96
+RIM-COD-SHA1: 01 6b 2f 5a 87 58 6e 33 c4 27 ec 03 36 03 aa fc 82 f8 0c 8b
 RIM-MIDlet-Icon-1-1: res/moneybook_at.png,focused
+RIM-COD-URL-1: HLibs.cod
+RIM-Library-Flags: 2
+RIM-COD-Size-1: 19524
